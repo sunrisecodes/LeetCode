@@ -1,0 +1,14 @@
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\obj\Debug\net8.0\1920. Build Array from Permutation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\obj\Debug\net8.0\1920. Build Array from Permutation.AssemblyInfoInputs.cache
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\obj\Debug\net8.0\1920. Build Array from Permutation.AssemblyInfo.cs
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\obj\Debug\net8.0\1920. Build Array from Permutation.csproj.CoreCompileInputs.cache
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\bin\Debug\net8.0\1920. Build Array from Permutation.exe
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\bin\Debug\net8.0\1920. Build Array from Permutation.deps.json
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\bin\Debug\net8.0\1920. Build Array from Permutation.runtimeconfig.json
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\bin\Debug\net8.0\1920. Build Array from Permutation.dll
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\bin\Debug\net8.0\1920. Build Array from Permutation.pdb
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\obj\Debug\net8.0\1920. Build Array from Permutation.dll
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\obj\Debug\net8.0\refint\1920. Build Array from Permutation.dll
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\obj\Debug\net8.0\1920. Build Array from Permutation.pdb
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\obj\Debug\net8.0\1920. Build Array from Permutation.genruntimeconfig.cache
+D:\Work\LeetCode\1920. Build Array from Permutation\1920. Build Array from Permutation\obj\Debug\net8.0\ref\1920. Build Array from Permutation.dll
