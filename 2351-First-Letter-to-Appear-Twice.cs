@@ -1,22 +1,20 @@
 public class Solution 
 {
-    public char RepeatedCharacter(string s)
+    
+     public char RepeatedCharacter(string s)
  {
-    Dictionary<char,int> dict = new Dictionary<char,int>();
-    Char RepeatedCh  = new Char();
-    foreach (char ch in s)
-    {
-        if (dict.ContainsKey(ch))
-        {
-            RepeatedCh = ch;
-            return RepeatedCh;
-        }
+     HashSet<char> Characters = new HashSet<char>();
+     foreach (char ch in s)
+     {
+         if (Characters.Contains(ch))
+             return ch;
+         
+         
+         Characters.Add(ch);
+         
+     }
 
-        dict[ch] = 1;
-           
+     return ' ';
 
-    }
-
-    return RepeatedCh;
-  } 
+ }
 }
